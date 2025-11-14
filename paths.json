@@ -1,16 +1,16 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json",
-    "/content/wknd-universal.resource/language-masters/en/query-index.json:/en/query-index.json"
+    "/content/shilshet-whiteandcase/language-masters/en:/",
+    "/content/shilshet-whiteandcase/language-masters/en/:/",
+    "/content/shilshet-whiteandcase/language-masters/en/:/en/",
+    "/content/shilshet-whiteandcase/configuration:/.helix/config.json",
+    "/content/shilshet-whiteandcase/metadata:/metadata.json",
+    "/content/shilshet-whiteandcase/redirects:/redirects.json",
+    "/content/shilshet-whiteandcase/placeholders:/placeholders.json",
+    "/content/shilshet-whiteandcase.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/shilshet-whiteandcase/",
+    "/content/dam/shilshet-whiteandcase/"
   ]
 }
